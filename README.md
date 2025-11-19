@@ -32,7 +32,7 @@ O projeto utiliza informações inseridas pelo usuário e aplica uma lógica de 
 
 ## Relevância Ambiental
 
-### As queimadas constituem um dos maiores desafios ecológicos da atualidade. Seus impactos incluem:
+As queimadas constituem um dos maiores desafios ecológicos da atualidade. Seus impactos incluem:
 
 - perda de biodiversidade;
 
@@ -69,7 +69,7 @@ Este projeto demonstra, em formato acadêmico, como dados ambientais simples pod
 
 ## Objetivo Acadêmico
 
-### Este projeto foi criado com finalidade educacional, integrando:
+Este projeto foi criado com finalidade educacional, integrando:
 
 - conceitos de programação;
 
